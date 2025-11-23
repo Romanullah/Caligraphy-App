@@ -1,0 +1,21 @@
+{
+  "name": "CalligraphyGen AI",
+  "short_name": "Calligraphy",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/image/brush/materialicons/48dp/2x/baseline_brush_white_48dp.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/image/brush/materialicons/48dp/2x/baseline_brush_white_48dp.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
